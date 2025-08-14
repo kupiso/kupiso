@@ -8,7 +8,6 @@ Hi there! 👋 I'm **Sipo Kupiso**, a Software Developer from Dutywa, passionate
 	</a>
 </p>
 
-🌍 **Currently working at**: Self Employed 
 📍 **Location**: Gauteng, South Africa  
 📅 **Available for freelance or collaborations!**  
 
