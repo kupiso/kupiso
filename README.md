@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Sipo Kupiso**, a Software Developer from Dutywa, passionate about crafting interactive web experiences with HTML, CSS, and JavaScript. I specialize in integrating cutting-edge tools like **AI** and **ChatGPT** to create smarter, user-focused solutions. 
 
-🌍 **Currently working at**: CAPACITI  
+🌍 **Currently working at**: Self Employed 
 📍 **Location**: Gauteng, South Africa  
 📅 **Available for freelance or collaborations!**  
 
