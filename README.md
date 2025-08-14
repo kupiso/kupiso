@@ -2,11 +2,34 @@
 
 Hi there! 👋 I'm **Sipo Kupiso**, a Software Developer from Dutywa, passionate about crafting interactive web experiences with HTML, CSS, and JavaScript. I specialize in integrating cutting-edge tools like **AI** and **ChatGPT** to create smarter, user-focused solutions. 
 
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Hello+Everyone!+Welcome+to+my+IT+Play+Ground!+🚀;I+am+focused+on+software+development;&center=true&width=600&height=45">
+	</a>
+</p>
+
 🌍 **Currently working at**: Self Employed 
 📍 **Location**: Gauteng, South Africa  
 📅 **Available for freelance or collaborations!**  
 
 ---
+
+### 🧰 Languages
+<br/>
+<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="C++" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#
 
 ## 🛠️ Skills
 
@@ -99,6 +122,20 @@ Designed with ❤️ by Sipo Kupiso
   _A complete shopping cart built with React, Node.js, and MongoDB_  
 
 ---
+
+## :book: Message Me </h2>
+<p> Say Hi To A Fellow Bro! 🚀 <a href="https://github.com/kupiso/kupiso/issues/new?template=guestbook-entry.md">Here</a>!</p>
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="Hope you find something cool here!" 
+             src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=500&lines=Hope+you+find+something+cool+here!" />
+	</a>
+</div>
+<hr>
+<div align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A1DE&width=435&lines=Coding+next-gen+high-performing+apps;Passionate+about+Dev+and+PenTest;Always+learning+%F0%9F%93%9A" alt="Typing animation" />  
+</div>  
 
 ## 💬 Let’s Talk
 
