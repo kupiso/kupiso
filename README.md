@@ -115,10 +115,10 @@ Designed with ❤️ by Sipo Kupiso
 ## 🚀 Recent Projects
 
 - **AI-Powered Web Development Assistant** 🧠
-- **React Portfolio** 💻  
+- **Personal Portfolio** 💻  
   _Showcase of my personal projects built with React & Next.js_  
-- **Full-Stack E-commerce App** 🛒  
-  _A complete shopping cart built with React, Node.js, and MongoDB_  
+- **r2d2-morse-translator** 🛒  
+  _A web-based Morse Code Translator built with HTML, CSS, and JavaScript. 
 
 ---
 
